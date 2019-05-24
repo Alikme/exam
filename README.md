@@ -3,7 +3,7 @@
 ### EXAM Documentation
 
 * Cloning this git repository
-* Creating branch, branch name should be your student number
+* Creating branch, branch title should be your student number
 * Open project in Intellij idea
 You are going to develop:
    * library user system
