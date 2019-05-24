@@ -1,0 +1,4 @@
+INSERT INTO MOVIE (ID, CATEGORY, NAME, RELEASE_YEAR) VALUES (1, 'Fantasy adventure', 'Hook', 1991);
+INSERT INTO MOVIE (ID, CATEGORY, NAME, RELEASE_YEAR) VALUES (2, 'Comedy', 'On the roofs', 1897);
+INSERT INTO MOVIE (ID, CATEGORY, NAME, RELEASE_YEAR) VALUES (3, 'Comedy', 'Cheech and Chong Next Movie', 1980);
+INSERT INTO MOVIE (ID, CATEGORY, NAME, RELEASE_YEAR) VALUES (4, 'neo-noir mystery film', 'Chinatown', 1974);
