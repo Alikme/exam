@@ -11,6 +11,7 @@ public class ExamApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.print("testing");
     }
 
 }
