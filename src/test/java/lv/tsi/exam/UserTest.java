@@ -18,9 +18,19 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 public class UserTest {
     @Autowired
     private MockMvc mockMvc;
-    
+
+    @Test
+    public void getAll() throws Exception {
+        mockMvc.perform(get("/catalog/getAll")).andExpect(status().isOk());
+    }
+
     @Test
     public void getCatalogById() throws Exception {
-        mockMvc.perform(get("catalog/getAll")).andExpect(status().isOk());
+        mockMvc.perform(get("/catalog/getCatalogById/2")).andExpect(status().isOk());
+    }
+
+    @Test
+    public void getCatalogByTitle() throws Exception {
+        mockMvc.perform(get("/catalog/getMoviesByCatalogName/Title1")).andExpect(status().isOk());
     }
 }
