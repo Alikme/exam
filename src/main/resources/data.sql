@@ -1,0 +1,4 @@
+INSERT INTO MOVIE (ID, CATEGORY, NAME, RELEASE_YEAR) VALUES (1, 'Horror', 'The shining', 1980);
+INSERT INTO MOVIE (ID, CATEGORY, NAME, RELEASE_YEAR) VALUES (2, 'Comedy', 'Up in Smoke', 1970);
+INSERT INTO MOVIE (ID, CATEGORY, NAME, RELEASE_YEAR) VALUES (3, 'Comedy', 'Cheech and Chong Next Movie', 1980);
+INSERT INTO MOVIE (ID, CATEGORY, NAME, RELEASE_YEAR) VALUES (4, 'Fantastic', 'Harry Potter and the deathly hallows part 2', 2011);
