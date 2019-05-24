@@ -1,4 +1,4 @@
-package lv.tsi.exam;
+package lv.tsi.exam.Repo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
