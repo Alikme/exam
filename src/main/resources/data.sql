@@ -1,0 +1,6 @@
+INSERT INTO MOVIE VALUES(1,'Description','COMEDY', 'Name')
+INSERT INTO MOVIE VALUES(2,'Hello Kitty','DRAMA', 'Action')
+INSERT INTO MOVIE VALUES(3,'For kids','COMEDY', 'Smurfes')
+INSERT INTO MOVIE VALUES(4,'Some movie','ACTION', 'Thanos')
+INSERT INTO MOVIE VALUES(5,'star Wars','ACTION', 'Space')
+INSERT INTO MOVIE VALUES(7,'Hello java','DRAMA', 'Java Exam')
