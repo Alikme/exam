@@ -15,7 +15,7 @@ public class MovieController {
     private final String MESSAGE = "<h1>Hello!</h1><br><h2>Welcome to my movies database! ;)</h2><br/>" +
             "<table><tr><th>Description</th><th>URI Path</th></tr>"+
             "<tr><td>To get all movies</td><td>/movies/getAll</td></tr>" +
-            "<tr><td>To get movie by id use</td><td>/movies/get/&lt;id&gt;</td></tr>" +
+            "<tr><td>To get movie by id use</td><td>/movies/getId/&lt;id&gt;</td></tr>" +
             "<tr><td>To find movie by category use</td><td> /movies/getCat/&lt;category&gt;</td>";
 
     @Autowired
