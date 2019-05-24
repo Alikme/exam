@@ -3,6 +3,9 @@ package lv.tsi.exam.entity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
+import java.util.List;
+
 @Repository
-public interface MovieRepository extends JpaRepository<MovieEntity, Long> {
+public interface CatalogRepository extends JpaRepository<CatalogEntity, Long> {
+    List<CatalogEntity> findByTitle(String title);
 }
