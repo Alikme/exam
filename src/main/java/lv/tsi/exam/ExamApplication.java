@@ -11,3 +11,4 @@ public class ExamApplication {
     }
 
 }
+//1 variant
