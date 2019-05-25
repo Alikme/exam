@@ -1,5 +1,0 @@
-INSERT INTO USER (ID, NAME, SURNAME, EMAIL, BOOK, PHONE_NUMBER) VALUES (1, 'Ivan', 'Ivanov','ivv@inbox.lv','GarryPoter','245642313');
-INSERT INTO USER (ID, NAME, SURNAME, EMAIL, BOOK, PHONE_NUMBER) VALUES (2, 'Petr', 'Petrov','petr@mail.ru','ZelenayaMilya','24785667');
-INSERT INTO USER (ID, NAME, SURNAME, EMAIL, BOOK, PHONE_NUMBER) VALUES (3, 'Sidr', 'Sidorov','sidr@inbox.lv','UnesennieVetrm','23478116');
-INSERT INTO USER (ID, NAME, SURNAME, EMAIL, BOOK, PHONE_NUMBER) VALUES (4, 'Jan', 'Janov','jan@list.ru','Prisluga','24578123');
-INSERT INTO USER (ID, NAME, SURNAME, EMAIL, BOOK, PHONE_NUMBER) VALUES (5, 'Anime', 'Shnik','top@anime.ru','VlastelinKolec','23641259');
