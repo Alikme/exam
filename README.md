@@ -22,7 +22,6 @@ You are going to develop:
 
 * Project should contain REST endpoints which are returning requested in task data
 * Data should be stored/taken from H2 database
-* Write at least 1 Junit test
 * Pushing your branch to this repository 
 * Come to me, tell me, that you have finished and present/defend project
 
